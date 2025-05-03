@@ -101,6 +101,16 @@ ORDER BY
    ![Screenshot 2025-05-04 004651](https://github.com/user-attachments/assets/023a8b08-66ae-4ef1-8f6f-6ae2eec97f3e)
 
 
+## Objective Achieved
+Successfully implemented SQL queries that analyze monthly revenue and order volume using:
+
+EXTRACT() function to get month and year from dates
+GROUP BY for aggregating data by time periods
+SUM() for calculating total revenue
+COUNT(DISTINCT) for determining order volume
+Advanced sorting and filtering techniques
+
+
 ### Key Insights
 1. March and June had the highest revenue ($1,749.96) and highest order volume (4 orders)
 2. January had the lowest revenue ($649.48)
@@ -117,3 +127,5 @@ Feel free to reach out with any questions or suggestions for improvement!
 
 - LinkedIn: [saurabhhupadhyay](https://linkedin.com/in/saurabhhupadhyay)
 - Email: saurabhu.2004@gmail.com
+
+This project demonstrates SQL-based sales trend analysis using aggregation functions. All queries are written and executed using SQL and stored in analysis.sql and create_table.sql.
