@@ -81,6 +81,26 @@ ORDER BY
 | 2023 | 5     | 999.48       | 3           |
 | 2023 | 6     | 1749.96      | 4           |
 
+## 1. Monthly Revenue and Order Volume
+
+
+   ![Screenshot 2025-05-04 004425](https://github.com/user-attachments/assets/3fb73c52-a213-4635-aab6-1d2c569e7d9e)
+
+## 2. Top 3 Months by Revenue
+
+   ![Screenshot 2025-05-04 004538](https://github.com/user-attachments/assets/d5403e3a-39c9-4bfb-a0dd-bc339147eec2)
+
+## 3. Average Order Value by Month
+
+
+   ![Screenshot 2025-05-04 004608](https://github.com/user-attachments/assets/68305abf-8f40-4ac0-bed8-c0a6d3b72a1a)
+
+## 4. Product Performance by Month
+
+
+   ![Screenshot 2025-05-04 004651](https://github.com/user-attachments/assets/023a8b08-66ae-4ef1-8f6f-6ae2eec97f3e)
+
+
 ### Key Insights
 1. March and June had the highest revenue ($1,749.96) and highest order volume (4 orders)
 2. January had the lowest revenue ($649.48)
@@ -90,3 +110,4 @@ ORDER BY
 1. Create a database in your preferred SQL environment (PostgreSQL/MySQL/SQLite)
 2. Run the create_table.sql script to set up the database schema and sample data
 3. Execute the queries in analysis.sql to perform the sales trend analysis
+
