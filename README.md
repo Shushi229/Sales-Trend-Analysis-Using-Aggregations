@@ -111,3 +111,9 @@ ORDER BY
 2. Run the create_table.sql script to set up the database schema and sample data
 3. Execute the queries in analysis.sql to perform the sales trend analysis
 
+## 📧 Contact
+
+Feel free to reach out with any questions or suggestions for improvement!
+
+- LinkedIn: [saurabhhupadhyay](https://linkedin.com/in/saurabhhupadhyay)
+- Email: saurabhu.2004@gmail.com
