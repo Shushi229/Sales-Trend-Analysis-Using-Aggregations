@@ -69,18 +69,7 @@ ORDER BY
     month ASC;
 ```
 
-## Results
-
-### Monthly Revenue and Order Volume
-| year | month | total_revenue | order_volume |
-|------|-------|--------------|-------------|
-| 2023 | 1     | 649.48       | 3           |
-| 2023 | 2     | 999.48       | 3           |
-| 2023 | 3     | 1749.96      | 4           |
-| 2023 | 4     | 1149.48      | 3           |
-| 2023 | 5     | 999.48       | 3           |
-| 2023 | 6     | 1749.96      | 4           |
-
+### Results
 ## 1. Monthly Revenue and Order Volume
 
 
@@ -104,11 +93,11 @@ ORDER BY
 ## Objective Achieved
 Successfully implemented SQL queries that analyze monthly revenue and order volume using:
 
-EXTRACT() function to get month and year from dates
-GROUP BY for aggregating data by time periods
-SUM() for calculating total revenue
-COUNT(DISTINCT) for determining order volume
-Advanced sorting and filtering techniques
+- EXTRACT() function to get month and year from dates
+- GROUP BY for aggregating data by time periods
+- SUM() for calculating total revenue
+- COUNT(DISTINCT) for determining order volume
+- Advanced sorting and filtering techniques
 
 
 ### Key Insights
